@@ -1,5 +1,5 @@
 // Offline cache: serve app shell from cache, refresh it in the background.
-const CACHE = 'food-steps-v1';
+const CACHE = 'food-steps-v2';
 const ASSETS = ['./', 'index.html', 'manifest.webmanifest', 'icon.svg'];
 
 self.addEventListener('install', (e) => {
