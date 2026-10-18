@@ -27,7 +27,8 @@ Nutrition values are approximate, per serving. Edit them to match what you actua
 Open the link above, then:
 
 - **Android (Chrome):** menu ⋮ → **Add to Home screen / Install app**
-- **iPhone (Safari):** Share → **Add to Home Screen**
+- **iPhone (Safari):** Share button → **Add to Home Screen**
+- **iPhone (Chrome):** Share button (top right, next to the address bar) → scroll down → **Add to Home Screen**
 
 It then opens full screen from its own icon, like a normal app.
 
