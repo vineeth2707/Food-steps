@@ -19,10 +19,8 @@ Nutrition values are approximate, per serving. Change them or add your own foods
 
 The app is plain HTML, CSS and JS with no build step. Host it with GitHub Pages:
 
-1. On GitHub, open the repo, then **Settings → Pages**.
-2. Under **Build and deployment**, choose **Deploy from a branch**. Pick the branch with this code and the `/ (root)` folder, then **Save**.
-3. After a minute or so the app is live at `https://<your-username>.github.io/food-steps/`.
-4. Open that link on your phone:
+1. app is live at `https://<your-username>.github.io/food-steps/`.
+2. Open that link on your phone:
    - **Android (Chrome):** menu ⋮ → **Add to Home screen / Install app**
    - **iPhone (Safari):** Share → **Add to Home Screen**
 
